@@ -1,0 +1,7 @@
+.vscode/
+
+Res/
+Test/
+
+build.ps1
+*.exe
